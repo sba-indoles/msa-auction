@@ -35,3 +35,16 @@ msa로 구성한 실시간 가격 하락 경매 서비스입니다.
 ---
 
 ![OutBound 아키텍처](https://github.com/user-attachments/assets/6294e563-3570-4f06-ad3d-849ee32cc256)
+
+---
+
+<br/>
+
+### 🙋🏻‍♂️ 프로젝트 멤버
+
+---
+
+|                 **개발자**                 |                **인프라 엔지니어**                 |               **SE 엔지니어(DB)**               |           **클라우드 엔지니어**               |
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+|                 소재훈                 |                 김승주                 |                 이윤호                 |                 최성웅                 |             
+| <img width = 100 src="https://github.com/user-attachments/assets/bd7537ab-561b-4348-beb0-9fdfeb597b7b"> | <img width = 100 src="https://github.com/user-attachments/assets/c78c2ba4-ff02-4ae1-ba4b-6e01c669dd58"> | <img width = 100 src="https://github.com/user-attachments/assets/533d5c36-f76e-406a-93ee-35f8de93e540"> | <img width = 100 src="https://github.com/user-attachments/assets/a0f834e3-c447-4db2-a50e-c380df0e1608"> |
