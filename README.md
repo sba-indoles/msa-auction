@@ -27,16 +27,32 @@ msa로 구성한 실시간 가격 하락 경매 서비스입니다.
 
 ---
 
-![inbound단 설계](https://github.com/user-attachments/assets/0ca1057b-18f6-44c5-a331-217f73927613)
+![inbound단 설계](https://github.com/user-attachments/assets/03bd5b1f-5a19-44e9-846c-a3555ae7b3e4)
 
 
-### 🎲 인프라 아키텍처
+<br/>
+
+### ⚙️ CI/CD 아키텍처
+
+----
+
+![CI/CD 아키텍처](https://github.com/user-attachments/assets/0b0085f5-7f71-4d54-915a-9b6accdcbc81)
+
+<br/>
+
+### 🎲 k8s 아키텍처
 
 ---
 
-![OutBound 아키텍처](https://github.com/user-attachments/assets/6294e563-3570-4f06-ad3d-849ee32cc256)
+![OutBound 아키텍처](https://github.com/user-attachments/assets/775859ee-8083-4f2b-828c-170221050279)
+
+<br/>
+
+### 🛜 AWS 아키텍처
 
 ---
+
+![AWS 아키텍처](https://github.com/user-attachments/assets/8ec62114-892b-4bdc-a26f-656ce07ce336)
 
 <br/>
 
